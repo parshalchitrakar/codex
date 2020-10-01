@@ -6,4 +6,4 @@ sm=0
 for i in range(1000):
 	if i%3==0 or i%5==0:
 		sm+=i
-print('Sum is ',sm)
+print('The value of Sum is ',sm)
